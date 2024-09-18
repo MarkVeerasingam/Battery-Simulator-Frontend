@@ -15,7 +15,7 @@
         <div>
             <button on:click={() => goto("/login")}>Login</button>
             <span class="text-black text-lg ml-2">currentUser@gmail.com</span>
-            <button on:click={() => console.log("logigng out")}>Logout</button>
+            <button on:click={() => console.log("logging out")}>Logout</button>
         </div>
     </div>
 </div>

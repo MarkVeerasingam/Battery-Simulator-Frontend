@@ -1,4 +1,4 @@
-<!--http://localhost:5173/-->
+<!--http://localhost:5173/cuurentUser@gmail.com-->
 
 <div class="hero min-h-screen bg-base-300">
     <div class="hero-content">
