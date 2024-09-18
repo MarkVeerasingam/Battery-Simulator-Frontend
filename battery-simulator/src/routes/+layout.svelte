@@ -8,7 +8,7 @@
     <div class="navbar max-w-3xl mx-auto justify-between">
         <!-- left side of navbar -->
         <div>
-            <a href="/" class="btn btn-ghost text-xl">PokePage</a>
+            <a href="/" class="btn btn-ghost text-xl">Battery Simulator</a>
             <a href="/user" class="btn btn-ghost">My Page</a>
         </div>
         <!-- right side of navbar -->
